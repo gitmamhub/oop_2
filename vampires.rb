@@ -1,0 +1,13 @@
+
+
+class Vampire
+
+
+
+
+
+
+
+
+
+end
